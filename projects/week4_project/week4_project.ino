@@ -25,7 +25,7 @@ void setup()
 void loop()
 {
   // Any code you put here (in this function) will be looped (ran over and over again)
-  int val = analogRead(A0);
+  int val = analogRead(A1);
   int output = 0;
 
   // If you are unfamiliar with C++, this statement checks if the condition inside the parenthesis
