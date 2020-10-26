@@ -3,9 +3,9 @@
 // analog inputs -> expected output, but provided the wrong values
 // analog inputs should be the following: 0 - 341, 342 - 682, and 683 - 1023
 
-const int RED = -1;
-const int BLUE = -1;
-const int GREEN = -1;
+const int RED = 11;
+const int BLUE = 10;
+const int GREEN = 9;
 
 void setup() {
   // Anything written after "//" on the same line is a comment in C++
